@@ -21,7 +21,7 @@ body {
     background-image: url("../images/header-bg.png");
     background-attachment: fixed;
     background-size: cover;
-    background-position: 0 -110px;
+    background-position: center -110px;
     color: black;
     overflow: hidden;
 }
